@@ -25,7 +25,7 @@ On your external hard drive create a new folder called `python` in the root leve
 Let's create a new project that will store the code for all our weekly exercises.  Within this one project we will save all our programs into folders/directories.
 
 1. Run the PyCharm IDE
-1. Create a *New Project* called `Python2025` in your main `python` folder.
+1. Create a *New Project* called `Python2026` in your main `python` folder.
 1. Create a new project folder called `Ex1` -  (<kbd>File</kbd> ... <kbd>New...</kbd> ... <kbd>Directory</kbd>):
    ![](images/newFolder.png)
 
