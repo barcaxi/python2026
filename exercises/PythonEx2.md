@@ -3,7 +3,7 @@ $$# Python Exercise 2
 # Lab #1
 
 
-1. Open your Pycharm project `Python2025` from your main `python` folder.
+1. Open your Pycharm project `Python2026` from your main `python` folder.
 1. Create a new weekly project folder called `Ex2` -  (<kbd>File</kbd> ... <kbd>New...</kbd> ... <kbd>Directory</kbd>):
 
 ## Part 1 - `if` statement exercises
