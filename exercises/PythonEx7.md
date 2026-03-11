@@ -2,7 +2,7 @@
 
 # Lab #1
 
-1. Open your Pycharm project `Python2025` from your main `python` folder.
+1. Open your Pycharm project `Python2026` from your main `python` folder.
 
 1. Create a new weekly project folder called `Ex7` -  (<kbd>File</kbd> ... <kbd>New...</kbd> ... <kbd>Directory</kbd>):
 
