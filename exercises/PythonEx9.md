@@ -207,7 +207,7 @@
     Area = 600
     ```
 
-<!-- # Lab #2 - Exercise 2
+# Lab #2 - Exercise 2
 
 1.  In your `Ex9` folder create a new class module (file) called `Movie.py` with this code:
 
@@ -251,4 +251,4 @@
         "year": 2000
     }
     ```
- -->
+
